@@ -1,1 +1,2 @@
 ![Screenshot_28](https://github.com/Abedelhamid/product-management-system/assets/125611156/c68c7cbb-06ec-469a-9daa-ce1567750ed2)
+The CRUDS system provides a user interface for managing product information, including the creation, reading, updating, and deleting (CRUD) of product entries. It includes features for adding product details, calculating total prices, searching for products, and managing a list of products within a table.
